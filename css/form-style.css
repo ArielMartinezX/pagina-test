@@ -33,9 +33,11 @@ header {
     margin-top: 10px;
     margin-bottom: 20px;
     overflow: hidden;
+    background-color: burlywood;
 }
 
 header img {
+    border-radius: 50%;
     width: 100px;
     float:left
 }
