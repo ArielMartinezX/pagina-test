@@ -1,0 +1,83 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin: 10px 15px
+}
+
+
+main {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+header {
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+header img {
+    width: 100px;
+    float:left
+}
+
+nav {
+    padding-top: 10px;
+}
+
+nav .menu{
+    float: left;
+}
+
+main h1 {
+    background-color: antiquewhite;
+    padding-left: 190px;
+    margin-bottom: 20px;
+}
+
+section {
+    background-color: aquamarine;
+    height:200px
+}
+
+.group-form{
+    padding-left: 90px;
+}
+
+.group-form label{
+    float:left
+}
+
+.group-form #email{
+    margin-left:40px;
+    margin-bottom: 10px;
+}
+.group-form #password{
+    margin-left:5px;
+}
+
+.group-form2{
+    float: left;
+    margin-top: 20px;
+    padding-left: 175px;
+}
+
